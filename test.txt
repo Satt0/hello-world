@@ -3,3 +3,4 @@ new line
 test5
 test
 a new line
+something new
